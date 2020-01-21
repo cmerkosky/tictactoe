@@ -5,8 +5,6 @@ on:
     branches:
       master
 
-  ste
-
 jobs:
   run-pitest:
     runs-on: ubuntu-latest
